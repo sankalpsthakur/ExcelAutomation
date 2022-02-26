@@ -1,5 +1,4 @@
 # ExcelAutomation
-Excel/sheets programs
 
 
 Automatic document creation, Formatting
